@@ -1,4 +1,4 @@
-FROM alphacep/kaldi-vosk-server-gpu:latest
+FROM luka2025/kaldi-vosk-server-gpu:latest
 
 ENV MODEL_VERSION 0.22
 RUN \
